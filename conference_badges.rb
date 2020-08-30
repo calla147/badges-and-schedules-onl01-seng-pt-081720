@@ -1,4 +1,4 @@
-#def badge_maker ("Elsa")
+def badge_maker ("Elsa")
 =>"Hello, my name is Elsa"
 
 New_names =[Olaf, Anna]
