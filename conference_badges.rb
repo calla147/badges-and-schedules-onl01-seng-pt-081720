@@ -1,6 +1,6 @@
-badge_maker("Elsa")
-=> "Hello, my name is Elsa"
+badge_maker("Edsger")
+=> "Hello, my name is Edsger"
 
-New_names =[Olaf, Anna]
+New_names =[Ada, Charles, Alan, Grace, Linus, Matz]
 
 square_array (New_names)
